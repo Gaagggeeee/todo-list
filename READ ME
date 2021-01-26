@@ -1,0 +1,8 @@
+Simple To Do list using React 
+
+Checks off Completed task
+Deletes Tasks 
+
+Saves to local storage so when you refresh you can still see your previous task
+
+filters uncompleted and completed task
